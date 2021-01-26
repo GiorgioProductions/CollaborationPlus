@@ -8,15 +8,6 @@ switch (browserLang.substring(0,2)) {
   case "en":
   var lang = "English";
   break;
-  case "fr":
-  var lang = "Français";
-  break;
-  case "pt":
-  var lang = "Português";
-  break;
-  case "cs":
-  var lang = "Čeština";
-  break;
 }
 switchLanguage(lang);
 
